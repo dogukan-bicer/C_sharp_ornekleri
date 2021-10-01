@@ -1,8 +1,8 @@
-ing System;
+using System;
 
-namespace testproject
+namespace C_sharp_ornekleri
 {
-    class Program
+    class toplama_islemi_konsol
     {
         static void Main(string[] args)
         {
