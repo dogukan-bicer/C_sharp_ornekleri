@@ -9,7 +9,7 @@ namespace C_sharp_ornekleri
             //Console.WriteLine("Merhaba Dunya!");
             int sayi1, sayi2, sonuc;
             Console.WriteLine("Toplama İşlemi Programı");
-            Console.Write("1. Sayi : ");
+           // Console.Write("1. Sayi : ");
             sayi1=Convert.ToInt16(Console.ReadLine());
 
             Console.Write("2. Sayi : ");
